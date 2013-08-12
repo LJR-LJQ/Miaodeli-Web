@@ -5,4 +5,14 @@ html
 		script src=res/auto-refresh.js type=text/javascript
 		link href=res/main.css rel=stylesheet type=text/css
 	body
-		div class=top-navigator | hello, miaodeli!
+		div class=top-navigator
+			a href=# class=`navigator-item actived` | 主页
+			a href=# class=navigator-item | 功能特点
+			a href=# class=navigator-item | 技术原理
+			a href=# class=navigator-item | 未来计划
+			a href=# class=navigator-item | 作者介绍
+			a href=# class=navigator-item | 提交建议
+		div class=content-area
+		div class=footer
+			| Copyright©2013 喵德利 miaodeli.com 版权所有 
+			a href=http://www.miibeian.gov.cn/ | 琼ICP备13001634号-1
