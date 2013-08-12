@@ -67,6 +67,7 @@ a {
 	font-size: 15px;
 	text-align: center;
 	white-space: nowrap;
+	cursor: default;
 }
 
 .footer {

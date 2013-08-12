@@ -1,5 +1,6 @@
 html
 	head
+		meta http-equiv=Content-Type content=text/html;charset=UTF-8
 		title | 喵德利
 		script src=res/jquery-1.10.2.min.js type=text/javascript
 		script src=res/auto-refresh.js type=text/javascript
